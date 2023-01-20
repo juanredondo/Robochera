@@ -15,7 +15,7 @@
 // ***** CONFIGURACIÓN DE PINES *****
 #define DI_PIN D5 // Pin DI de la tira led WS2812b (GPIO5)
 #define SERVOL_PIN D4 // Pin data servo izquierdo (GPIO4)
-#define SERVOR_PIN D2 // Pin data servo derecho (GPIO2)
+#define SERVOR_PIN D8 // Pin data servo derecho (GPIO2)
 #define CONFIG_PIN D15 // Pin para resetear la contraseña del AP (GPIO15)
 #define STATUS_PIN D2 // pin led de estado (GPIO18)
 
